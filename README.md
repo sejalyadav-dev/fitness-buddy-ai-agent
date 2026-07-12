@@ -43,4 +43,5 @@ Most fitness apps assume users already have gym access or can afford equipment a
 
 ## Submission Details
 Submitted by: **Sejal Yadav**
+
 AICTE-IBM SkillsBuild 2026 — University Engagement Program
